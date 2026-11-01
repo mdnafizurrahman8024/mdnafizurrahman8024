@@ -4,7 +4,7 @@
      ============================================================ -->
 
 <!-- ─────────────  BANNER  ───────────── -->
-<img src="./LinkedIn cover.png" alt="Profile Banner" width="100%">
+<img src="./Banner.png" alt="Profile Banner" width="100%">
 
 <!-- ─────────────  ANIMATED HEADER  ───────────── -->
 <div align="center">
