@@ -24,15 +24,6 @@
 
 <br/><br/>
 
-<!-- ─────────────  RESUME BUTTON  ───────────── -->
-<a href="https://drive.google.com/file/d/106-eTtiqsvXZ9PIY_shcyWJX9kR66uq9/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/📄_View_My_Full_Resume_%2F_CV-→-36BCF7?style=for-the-badge&labelColor=0F4C81&logo=googledrive&logoColor=white&color=1B4D8C" alt="View My Full Resume / CV" height="42">
-</a>
-&nbsp;&nbsp;
-<a href="https://sites.google.com/view/md-nafizur-rahman/home" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-→-5AA9E6?style=for-the-badge&labelColor=1B4D8C&logo=googlechrome&logoColor=white&color=0F4C81" alt="Explore My Portfolio" height="42">
-</a>
-
 </div>
 
 <!-- ─────────────  BUILDING IN PUBLIC  ───────────── -->
@@ -233,7 +224,7 @@ software.
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnafizurrahman8024&bg_color=00000000&color=5B8FBC&title_color=5B8FBC&line=004AAD&point=C2CCCC&area=true&area_color=004AAD&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnafizurrahman8024&bg_color=transparent&color=0e75b6&line=0e75b6&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" />
 
 <br/>
 
@@ -267,6 +258,19 @@ software.
   <a href="https://orcid.org/0009-0008-3918-187X"><img src="https://img.shields.io/badge/ORCID-0009--0008--3918--187X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?user=bImpEzMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://osf.io/9aqs3/"><img src="https://img.shields.io/badge/OSF-9aqs3-2F3136?style=for-the-badge&logo=osf&logoColor=white" alt="OSF"></a>
+</p>
+
+<br/>
+
+<!-- ─────────────  RESUME & PORTFOLIO BUTTONS  ───────────── -->
+<p>
+  <a href="https://drive.google.com/file/d/106-eTtiqsvXZ9PIY_shcyWJX9kR66uq9/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_Full_Resume_%2F_CV-→-36BCF7?style=for-the-badge&labelColor=0F4C81&logo=googledrive&logoColor=white&color=1B4D8C" alt="View My Full Resume / CV" height="42">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sites.google.com/view/md-nafizur-rahman/home" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-→-5AA9E6?style=for-the-badge&labelColor=1B4D8C&logo=googlechrome&logoColor=white&color=0F4C81" alt="Explore My Portfolio" height="42">
+  </a>
 </p>
 
 </div>
