@@ -18,13 +18,9 @@
 
 <br/>
 
-<!-- Quick badges -->
+<!-- Profile views (kept functional) -->
 
-<a href="https://orcid.org/0009-0008-3918-187X"><img src="https://img.shields.io/badge/ORCID-0009--0008--3918--187X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-<a href="https://scholar.google.com/citations?user=bImpEzMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://sites.google.com/view/md-nafizur-rahman/home"><img src="https://img.shields.io/badge/Portfolio-Visit-1B4D8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.researchgate.net/profile/Md-Rahman-1097"><img src="https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-<img src="https://komarev.com/ghpvc/?username=mdnafizurrahman8024&label=Profile+Views&color=1B4D8C&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mdnafizurrahman8024&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <br/><br/>
 
@@ -38,6 +34,46 @@
 </a>
 
 </div>
+
+<!-- ─────────────  BUILDING IN PUBLIC  ───────────── -->
+<div align="center">
+
+### 🧑‍💻 The Technical Side — Building by _Vibe Coding_
+
+</div>
+
+<table align="center">
+<tr>
+<td width="100%" style="border-radius:16px; border:1px solid #36BCF755; background: linear-gradient(135deg, #0F4C8110, #1B4D8C10, #5AA9E610); padding: 20px;">
+
+Beyond the lab coat, I'm a **self-driven developer** who ships real products
+through **"Vibe Coding"** — an AI-assisted, rapid-prototyping workflow where a
+clear idea turns into a working app in days, not months. I work primarily with
+**Python, SQL, and the web stack (HTML · CSS · JavaScript)**, pairing clean
+backend logic with modern, responsive interfaces.
+
+**🚀 Active Repositories**
+
+| Project                                                                                                               | What it is                                                                                                  |
+| :-------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| [**Professors-Vet-And-Pet-Care-Website**](https://github.com/mdnafizurrahman8024/Professors-Vet-And-Pet-Care-Website) | Django clinic-management + pet e-commerce platform — bookings, surgery gallery, POS inventory & admin panel |
+| [**Zun-Synthesis-Academy-Website**](https://github.com/mdnafizurrahman8024/Zun-Synthesis-Academy-Website)             | Premium ed-tech platform bridging biology and technology — Python backend, Tailwind CSS frontend            |
+| [**PoultryMedix-Project-Overview**](https://github.com/mdnafizurrahman8024/PoultryMedix-Project-Overview)             | 🩺 PoultryMedix — veterinary decision-support app for poultry health (in development)                       |
+| [**Python-Foundation-21-Days**](https://github.com/mdnafizurrahman8024/Python-Foundation-21-Days)                     | A 21-day Python challenge — daily practice building consistency and practical skill                         |
+| [**project-bank-management-system**](https://github.com/mdnafizurrahman8024/project-bank-management-system)           | A banking management system built as a hands-on software-engineering exercise                               |
+
+**⚡ ZunSync-Software** is currently in active private development and will be
+published here soon.
+
+I'm **continuously learning** — every repository is a step further into
+bioinformatics pipelines, data dashboards, and AI-driven tools. **More exciting
+projects and features are on the way.** 🌱
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ─────────────  ABOUT ME  ───────────── -->
 <h2 align="center">
@@ -188,16 +224,20 @@ software.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdnafizurrahman8024&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=5AA9E6&icon_color=8FB8DE&text_color=c9d1d9&border_radius=16" alt="GitHub Stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnafizurrahman8024&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=5AA9E6&text_color=c9d1d9&border_radius=16" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdnafizurrahman8024&theme=transparent" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnafizurrahman8024&theme=transparent" alt="Top Languages" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=mdnafizurrahman8024&theme=tokyonight&background=00000000&hide_border=true&border_radius=16&ring=5AA9E6&fire=1B6CA8&currStreakLabel=8FB8DE" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnafizurrahman8024&theme=transparent&background=00000000&hide_border=true&border_radius=16&ring=004AAD&fire=5B8FBC&currStreakLabel=5B8FBC&sideLabels=C2CCCC&dates=8B949E&sideNums=004AAD&currStreakNum=5B8FBC&stroke=004AAD" alt="GitHub Streak" />
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnafizurrahman8024&bg_color=00000000&color=5AA9E6&line=1B4D8C&point=8FB8DE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnafizurrahman8024&bg_color=00000000&color=5B8FBC&title_color=5B8FBC&line=004AAD&point=C2CCCC&area=true&area_color=004AAD&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnafizurrahman8024&theme=transparent" alt="Profile Details" />
 
 </div>
 
