@@ -224,11 +224,7 @@ software.
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnafizurrahman8024&bg_color=transparent&color=0e75b6&line=0e75b6&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" />
-
-<br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnafizurrahman8024&theme=transparent" alt="Profile Details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnafizurrahman8024&theme=transparent" alt="Profile Details" />
 
 </div>
 
