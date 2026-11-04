@@ -215,16 +215,16 @@ software.
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdnafizurrahman8024&theme=transparent" alt="GitHub Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnafizurrahman8024&theme=transparent" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdnafizurrahman8024&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=1800" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnafizurrahman8024&layout=compact&langs_count=8&theme=default&include_all_commits=true&cache_seconds=1800" alt="Top Languages" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnafizurrahman8024&theme=transparent&background=00000000&hide_border=true&border_radius=16&ring=004AAD&fire=5B8FBC&currStreakLabel=5B8FBC&sideLabels=C2CCCC&dates=8B949E&sideNums=004AAD&currStreakNum=5B8FBC&stroke=004AAD" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnafizurrahman8024&theme=default&cache_seconds=1800" alt="GitHub Streak" />
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnafizurrahman8024&theme=transparent" alt="Profile Details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnafizurrahman8024&theme=transparent&cache_seconds=1800" alt="Profile Details" />
 
 </div>
 
