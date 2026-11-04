@@ -209,18 +209,16 @@ software.
 <br/>
 
 <!-- ─────────────  GITHUB STATS  ───────────── -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=420&height=45&lines=%F0%9F%93%88+GitHub+Stats" alt="GitHub Stats" />
-</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdnafizurrahman8024&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=1800" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnafizurrahman8024&layout=compact&langs_count=8&theme=default&include_all_commits=true&cache_seconds=1800" alt="Top Languages" />
+<img width="49%" height="165" src="https://github-readme-stats-fast.vercel.app/api?username=mdnafizurrahman8024&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+<img width="49%" height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdnafizurrahman8024&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnafizurrahman8024&theme=default&cache_seconds=1800" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnafizurrahman8024&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
 
 <br/>
 
